@@ -1,8 +1,25 @@
-# React + Vite
+# Knowledge Cafe
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple web application built with React that allows users to explore blogs, bookmark their favorite ones, and keep track of their reading time. This project demonstrates the use of React hooks, state management, and component-based architecture.
 
-Currently, two official plugins are available:
+## Features
+- Display a list of blogs fetched from an external JSON file.
+- Bookmark blogs with the option to "Mark as Read."
+- Track total reading time dynamically.
+- Responsive layout using Tailwind CSS.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Live Website Link:
+https://flourishing-dango-2c5381.netlify.app/
+
+## Project Structure
+src/
+├── assets/                # Static assets like images
+├── components/            # Reusable components
+│   ├── Blogs/             # Blogs component
+│   ├── Bookmarks/         # Bookmarks component
+│   ├── Blog/              # Blog component
+│   ├── Bookmark/          # Bookmark component
+│   ├── Header/            # Header component
+├── App.js                 # Main app logic
+├── index.js               # Entry point of the app
+└── App.css                # CSS file
