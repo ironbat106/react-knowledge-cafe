@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co.com/JmzBCdq/flat-lay-workstation-with-copy-space-laptop.jpg",
+      "title": "The Future of AI in Healthcare",
+      "author": "Aryan Ahad Ateeq",
+      "author_img": "https://i.ibb.co.com/qkgJwnS/Whats-App-Image-2024-10-15-at-20-10-25-38445056.jpg",
+      "posted_date": "2024-10-15",
+      "reading_time": 5,
+      "hashtags": ["#AI", "#Healthcare", "#Innovation"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co.com/sJ5wrxX/digital-graphic-tablet-camera-cellphone-with-stationery-yellow-background.jpg",
+      "title": "10 Tips for Learning JavaScript",
+      "author": "Jane Smith",
+      "author_img": "https://i.ibb.co.com/BzJcLvs/download.jpg",
+      "posted_date": "2024-09-30",
+      "reading_time": 7,
+      "hashtags": ["#JavaScript", "#Coding", "#WebDev"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co.com/7CzyByv/top-view-desk-concept-with-copy-space.jpg",
+      "title": "Exploring the World of NFTs",
+      "author": "Alex Green",
+      "author_img": "https://i.ibb.co.com/Rb1fsWs/images.jpg",
+      "posted_date": "2024-08-12",
+      "reading_time": 6,
+      "hashtags": ["#NFT", "#Crypto", "#Blockchain"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co.com/JmzBCdq/flat-lay-workstation-with-copy-space-laptop.jpg",
+      "title": "Top 5 Python Libraries for Data Science",
+      "author": "Emily Brown",
+      "author_img": "https://i.ibb.co.com/w4bTWzz/download-2.jpg",
+      "posted_date": "2024-07-25",
+      "reading_time": 4,
+      "hashtags": ["#Python", "#DataScience", "#Libraries"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co.com/sJ5wrxX/digital-graphic-tablet-camera-cellphone-with-stationery-yellow-background.jpg",
+      "title": "How Cybersecurity is Evolving in 2024",
+      "author": "Michael Lee",
+      "author_img": "https://i.ibb.co.com/vcNkv45/download-1.jpg",
+      "posted_date": "2024-10-05",
+      "reading_time": 8,
+      "hashtags": ["#Cybersecurity", "#Tech", "#Trends"]
+    }
+  ]
+  
