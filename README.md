@@ -9,4 +9,4 @@ A simple web application built with React that allows users to explore blogs, bo
 - Responsive layout using Tailwind CSS.
 
 ## Live Website Link:
-https://flourishing-dango-2c5381.netlify.app/
+https://aryan-knowledge-cafe.surge.sh/
